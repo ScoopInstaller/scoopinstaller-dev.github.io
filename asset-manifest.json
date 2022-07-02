@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://scoop.sh/scoopinstaller-dev.github.io/static/css/main.ee7d11c4.css",
-    "main.js": "https://scoop.sh/scoopinstaller-dev.github.io/static/js/main.3c456fff.js",
+    "main.css": "https://scoop.sh/scoopinstaller-dev.github.io/static/css/main.fc301805.css",
+    "main.js": "https://scoop.sh/scoopinstaller-dev.github.io/static/js/main.d8d8c839.js",
     "static/js/787.bc779ebf.chunk.js": "https://scoop.sh/scoopinstaller-dev.github.io/static/js/787.bc779ebf.chunk.js",
     "index.html": "https://scoop.sh/scoopinstaller-dev.github.io/index.html",
-    "main.ee7d11c4.css.map": "https://scoop.sh/scoopinstaller-dev.github.io/static/css/main.ee7d11c4.css.map",
-    "main.3c456fff.js.map": "https://scoop.sh/scoopinstaller-dev.github.io/static/js/main.3c456fff.js.map",
+    "main.fc301805.css.map": "https://scoop.sh/scoopinstaller-dev.github.io/static/css/main.fc301805.css.map",
+    "main.d8d8c839.js.map": "https://scoop.sh/scoopinstaller-dev.github.io/static/js/main.d8d8c839.js.map",
     "787.bc779ebf.chunk.js.map": "https://scoop.sh/scoopinstaller-dev.github.io/static/js/787.bc779ebf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ee7d11c4.css",
-    "static/js/main.3c456fff.js"
+    "static/css/main.fc301805.css",
+    "static/js/main.d8d8c839.js"
   ]
 }
